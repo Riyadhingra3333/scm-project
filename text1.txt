@@ -1,3 +1,7 @@
 HELLO
+<<<<<<< HEAD
 riya 
+=======
+riu 
+>>>>>>> 53a20ec74b4019de7b4d5c84142bb983678f7421
 dhingra
